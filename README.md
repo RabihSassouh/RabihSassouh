@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm Rabih from Lebanon, I'm a passionate software engineer dedicated to making meaningful contributions, creating technology to elevate people, and building community. I enjoy working with technologies such as ReactJS, GoLang, and Three.js.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RabihSassouh)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **RabihSassouh/RabihSassouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
