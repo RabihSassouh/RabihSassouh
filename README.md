@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rabih Saasouh</h1>
 <h3 align="center">A passionate software engineer from Lebanon</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabihsassouh" alt="rabihsassouh" /></a> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabihsassouh)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💬 Ask me about **React, Threejs, GoLang, Laravel, MySQL.**
 
